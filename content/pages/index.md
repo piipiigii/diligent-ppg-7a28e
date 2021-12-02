@@ -1,10 +1,7 @@
 ---
 title: Home
 has_intro: true
-intro_actions:
-  - label: Learn More
-    url: /about
-    style: primary
+intro_actions: []
 has_more_link: true
 more_link_text: Read more
 seo:
